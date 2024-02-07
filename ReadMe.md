@@ -1,4 +1,4 @@
-# Sample website and update for Github
+# EPVILLE student record
 
 **Notes**
 Sample website only, nothing happen.
